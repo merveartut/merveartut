@@ -16,9 +16,6 @@
 
 - 📄 Know about my experiences [https://www.overleaf.com/read/fqsvthbgqcfw#863f9f](https://www.overleaf.com/read/fqsvthbgqcfw#863f9f)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
