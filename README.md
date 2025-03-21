@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on [Travel Planner Project](https://github.com/merveartut/exploreCity)
 
-- 🌱 I’m currently learning **React Native, Docker, Kubernetes**
+- 🌱 I’m currently learning **Spring Boot, Docker, Kubernetes**
 
 - 🤝 I’m looking for help with [Travel Planner Project](https://github.com/merveartut/exploreCity)
 
 - 👨‍💻 All of my projects are available at [https://github.com/merveartut](https://github.com/merveartut)
 
-- 💬 Ask me about **React, Vue, Vuetify**
+- 💬 Ask me about **React, Vue, Vuetify, Spring Boot**
 
 - 📫 How to reach me **merveeartut@gmail.com**
 
