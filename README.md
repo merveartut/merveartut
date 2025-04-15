@@ -2,11 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merveartut&label=Profile%20views&color=0e75b6&style=flat" alt="merveartut" /> </p>
 
 
-- 🔭 I’m currently working on [Travel Planner Project](https://github.com/merveartut/exploreCity)
+- 🔭 I’m currently working on [Task Manager Project](https://github.com/merveartut/TaskManager)
 
 - 🌱 I’m currently learning **Spring Boot, Docker, Kubernetes**
-
-- 🤝 I’m looking for help with [Travel Planner Project](https://github.com/merveartut/exploreCity)
 
 - 👨‍💻 All of my projects are available at [https://github.com/merveartut](https://github.com/merveartut)
 
