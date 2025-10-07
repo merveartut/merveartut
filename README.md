@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **merveeartut@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/fqsvthbgqcfw#863f9f](https://www.overleaf.com/read/fqsvthbgqcfw#863f9f)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
