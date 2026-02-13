@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merveartut&label=Profile%20views&color=0e75b6&style=flat" alt="merveartut" /> </p>
 
 
-- 🔭 I’m currently working on [Idea Validator Project](https://github.com/merveartut/IdeaValidator)
+- 🔭 I’m currently working on [Blog Project](https://github.com/merveartut/Next-Blog)
 
-- 🌱 I’m currently learning **FastAPI, Docker, Kubernetes**
+- 🌱 I’m currently learning **Next.js, Node.js, Docker, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/merveartut](https://github.com/merveartut)
 
